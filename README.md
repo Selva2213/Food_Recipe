@@ -2,7 +2,7 @@
 
 This is the frontend of the **Food Recipe Web Application**, built using **React** and **Vite**. It allows users to browse, search, and view various recipes in a user-friendly interface.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React** – Frontend library
 - **Vite** – Build tool
@@ -10,7 +10,7 @@ This is the frontend of the **Food Recipe Web Application**, built using **React
 - **Axios** – API requests
 - **CSS / SCSS / Tailwind (if used)** – Styling
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
